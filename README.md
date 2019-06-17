@@ -1,6 +1,8 @@
 # Unity3d_MySQL_Client
 Unity3d Project with connection to any mysql server.
 
+Platform: PC
+
 MySQL connector Connector/NET 8.0.16:
 https://dev.mysql.com/downloads/connector/net/
 
