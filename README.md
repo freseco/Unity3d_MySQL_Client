@@ -3,6 +3,8 @@ Unity3d 2019.1.2f1 Project with connection to any mysql server.
 
 Platform: PC, Android.
 
+Platform: PC
+
 MySQL connector Connector/NET 8.0.16:
 https://dev.mysql.com/downloads/connector/net/
 
