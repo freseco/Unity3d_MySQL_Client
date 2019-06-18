@@ -1,14 +1,12 @@
 using MySql.Data.MySqlClient;
-using System.Collections;
-using System.Collections.Generic;
 using System.Data;
-using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MySQLscript : MonoBehaviour
 {
 
-    public TextMeshProUGUI text;
+    public Text text;
 
     public string Server = "";
     public string DataBase = "";
